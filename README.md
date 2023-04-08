@@ -8,6 +8,6 @@
 
 ==
 
-- Veja o Projeto. [Habit Tracker](https://irineub.github.io/irineu.brito/)
+- Veja o Projeto. [Habit Tracker](https://irineub.github.io/habit-tracker/)
 
 ---
